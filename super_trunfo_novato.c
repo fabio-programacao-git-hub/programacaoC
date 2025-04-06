@@ -8,7 +8,7 @@ int main(){
     char cidade_1[20] = "Rio Branco", cidade_2[20] = "Salvador";
     int populacao_1 = 365000, populacao_2 = 2417678;
     float area_1 = 8.835, area_2 = 693.442;
-    float pib_1 = 10.955, pib_2 = 62.954;
+    float pib_1 = 10.955000, pib_2 = 62.954000;
     int turismo_1 = 16, turismo_2 = 78;
 
     printf("Carta 1:\n");
